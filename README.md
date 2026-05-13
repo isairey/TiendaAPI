@@ -156,7 +156,7 @@ El proyecto fue desarrollado para practicar:
 # 📂 Estructura del proyecto
 
 ```bash
-POS-API/
+TiendaAPI/
 │
 ├── src/
 │   ├── main/
@@ -194,7 +194,7 @@ POS-API/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/pos-api-system.git
+git clone https://github.com/isairey/TiendaAPI.git
 ```
 
 ---
@@ -202,7 +202,7 @@ git clone https://github.com/usuario/pos-api-system.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd pos-api-system
+cd TiendaAPI
 ```
 
 ---
